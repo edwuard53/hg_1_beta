@@ -2,7 +2,7 @@
 
 # Nombre de usuario
 
-- Alfa [X] Christia, Caracas
+- Alfa [ ] Christian, Caracas
 - Zulu [ ] Keishmer, Caracas
 - Denzel [ ] Carlos, Miranda
 - Tango [ ] Jonathan, Miranda
@@ -10,7 +10,7 @@
 - Whisky [ ] Alona, Margarita
 - Zero [ ] Julio,
 - Golf [ ] Raykel, Caracas
-- Beta [ ] Edwuard, Caracas
+- Beta [X] Edwuard, Caracas
 - Fooxtruckt [ ] Alejandro, 
 - Xray [ ] Jeffrey, Puerto la Cruz
 - Delta [ ]
